@@ -10,7 +10,7 @@ BEDU: Developer Engineering
 ## Evidencias 🗂️
 
 Shell
-![Shell](./media/shellt.png)
+![Shell](./media/shell.png)
 
 BEDU Coming Soon
 ![BEDU Coming Soon](./media/bedu.png)
